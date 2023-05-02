@@ -1,0 +1,14 @@
+{
+  "name": "jwt-ec-exp",
+  "main": "./src/app.js",
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.21.3",
+    "eslint": "^8.39.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0"
+  },
+  "type": "module"
+}
